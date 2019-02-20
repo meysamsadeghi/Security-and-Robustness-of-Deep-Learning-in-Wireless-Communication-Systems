@@ -23,7 +23,7 @@ If you use any part of this repo, please consider citing our following works:
 # 1. Our Works
 ## 1.1. Adversarial Attacks on Deep-Learning Based Radio Signal Classification
 - The paper is available at __[[Paper]](https://ieeexplore.ieee.org/document/8449065)__
-- The code is available at __[[Code]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/new/master?readme=1)__
+- The code is available at __[[Code]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/blob/master/Adv_Attack_Modulation_Classification/Adversarial_Attacks_on_Deep_Learning_Based_Radio_Signal_Classification.ipynb)__
 
 - **About the work:** This work establishes the concept of adversarial attacks in wireless systems. It shows that
 DL based wireless applications can be very vulnerable to this new kind of threat. We establsih the main concepts, explain how
@@ -34,8 +34,11 @@ white-box and also black-box attacks.
 
 ## 1.2. Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems
 - The paper is available at __[[Paper]]()__
-- The code is available at __[[Code]]()__
-
+- The **main code** is available at __[[Code]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/blob/master/Adv_Attack_Autoencoders/Physical_Adversarial_Attacks_Against_E2E_Autoencoders.ipynb)__
+- We also have done some extra simulations considering some variations of the set-up we used in our paper. These variations are:
+	- Considering other information rates __[[Here]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/blob/master/Adv_Attack_Autoencoders/Trying_Other_Information_Rates.ipynb)__ 
+	- Using ReLU instead of eLU and also deeper networks __[[Here]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/blob/master/Adv_Attack_Autoencoders/Using_ReLU_instead_of_eLU_and_Deeper_Networks.ipynb)__ 
+	- Averaging over different models rather than using one single model __[[Here]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/blob/master/Adv_Attack_Autoencoders/Averaging_Over_Different_Models.ipynb)__ 
 - **About the work:** This work is a follow up of our previous work which presents two new directions.
 First, it presnts the concept of physical attacks in wireless communication systems. Second, it introduces adversarial attacks
 against end-t-end autoencoder systems.
