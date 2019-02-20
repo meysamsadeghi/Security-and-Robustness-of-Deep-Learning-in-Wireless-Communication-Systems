@@ -54,7 +54,7 @@ against end-t-end autoencoder systems.
 # 2. Papers on Security and Robustness of Deep Learning in Wireless Communication Systems
 Below is a list of works studying security and robustness in the context of wireless communication.
 If you want to add your paper here, please send me an email.
-- M. Sadeghi and Erik G. Larsson , “Adversarial attacks on deep-learning based radio signal classification,” IEEE Wireless Communications Letters, August 2019.
+- M. Sadeghi and Erik G. Larsson , “Adversarial attacks on deep-learning based radio signal classification,” IEEE Wireless Communications Letters, 2019.
 - M. Sadeghi and Erik G. Larsson , “Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems,” IEEE Communications Letters, 2019.
 - Y. Shi, Y. E. Sagduyu, T. Erpek, K. Davaslioglu, Z. Lu and J. H. Li, “Adversarial deep learning for cognitive radio security: Jamming attack and defense strategies,” in Proc. IEEE International Conference on Communications Workshops (ICC Workshops), 2018.
 - T. Erpek, Y. E. Sagduyu and Y. Shi, “Deep learning for launching and mitigating wireless jamming attacks,” in IEEE Transactions on Cognitive Communications and Networking., 2018.
