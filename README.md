@@ -1,8 +1,6 @@
 # Security and Robustness of DeepLearning in Wireless Communication Systems
 This repository is a research oriented repository dedicated to the Security and robustness of deep learning for wireless
-communication systems. The repo is divided into two sections, 1) our works and 2) other researchers. We have released the
-for our recent publications in a very friendly manner (as jupyter notebooks), hopping that other researchers can use them and
-extend/develope our works.
+communication systems. The repo is divided into two sections, 1) our works and 2) other researchers. We have released the code for our recent publications in a very friendly manner (as jupyter notebooks), hopping that other researchers can use them and extend/develope our works.
 
 <br><br>
 
