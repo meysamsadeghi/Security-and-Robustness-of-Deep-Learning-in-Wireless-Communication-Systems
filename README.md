@@ -1,6 +1,6 @@
 # Security and Robustness of Deep Learning in Wireless Communication Systems
 This repository is a research oriented repository dedicated to the Security and robustness of deep learning for wireless
-communication systems. The repo is divided into two sections, 1) our works and 2) other researchers. We have released the code for our recent publications in a very friendly manner (as jupyter notebooks), hopping that other researchers can use them and extend/develope our works.
+communication systems. The repo is divided into two sections, 1) our works plus code and 2) a library dedicated to security and robustness of deep learning in wireless systems. We have released the code for our recent publications in a very friendly manner (as jupyter notebooks), hopping that other researchers can use them and extend/develope our works.
 
 <br><br>
 
@@ -18,7 +18,7 @@ If you use any part of this repo, please consider citing our following works:
 
 <br><br><br>
 
-# 1. Our Works
+# 1. Our Works Plus Codes
 ## 1.1. Adversarial Attacks on Deep-Learning Based Radio Signal Classification
 - The paper is available at __[[Paper]](https://ieeexplore.ieee.org/document/8449065)__
 - The code is available at __[[Code]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/blob/master/Adv_Attack_Modulation_Classification/Adversarial_Attacks_on_Deep_Learning_Based_Radio_Signal_Classification.ipynb)__
@@ -51,10 +51,11 @@ against end-t-end autoencoder systems.
 <br><br><br><br><br><br>
 
 
-# 2. Other works
-Below is a list of other works studying security and robustness in the context of wireless communication.
+# 2. Papers on Security and Robustness of Deep Learning in Wireless Communication Systems
+Below is a list of works studying security and robustness in the context of wireless communication.
 If you want to add your paper here, please send me an email.
-- M. Sadeghi and Erik G. Larsson , “Adversarial attacks on deep-learning based radio signal classification,” IEEE Wireless Communications Letters, August 2018.
+- M. Sadeghi and Erik G. Larsson , “Adversarial attacks on deep-learning based radio signal classification,” IEEE Wireless Communications Letters, August 2019.
+- M. Sadeghi and Erik G. Larsson , “Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems,” IEEE Communications Letters, 2019.
 - Y. Shi, Y. E. Sagduyu, T. Erpek, K. Davaslioglu, Z. Lu and J. H. Li, “Adversarial deep learning for cognitive radio security: Jamming attack and defense strategies,” in Proc. IEEE International Conference on Communications Workshops (ICC Workshops), 2018.
 - T. Erpek, Y. E. Sagduyu and Y. Shi, “Deep learning for launching and mitigating wireless jamming attacks,” in IEEE Transactions on Cognitive Communications and Networking., 2018.
 - K. K. Nguyen, D. T. Hoang, D. Niyato, P. Wang, D. Nguyen and E. Dutkiewicz, “Cyberattack detection in mobile cloud computing: A deep learning approach,” in Proc. IEEE Wireless Communications and Networking Conference (WCNC), 2018.
