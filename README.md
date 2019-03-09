@@ -15,7 +15,7 @@ If you use any part of this repo, please consider citing our following works:
 
 # 1. Our Works and Our Codes
 ## 1.1. Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems
-- The paper is available at __[[will be added soon]]()__
+- The paper is available at __[[Paper]](https://arxiv.org/abs/1902.08391)__
 - **The main code is available at** __[[Code]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/blob/master/Adv_Attack_Autoencoders/Physical_Adversarial_Attacks_Against_E2E_Autoencoders.ipynb)__
 - We also have done some extra simulations considering some variations of the set-up we used in our paper. These variations are:
 	- Considering other information rates __[[Code]](https://github.com/meysamsadeghi/Security_and_Robustness_of_DeepLearning_in_Wireless_Communication_Systems/blob/master/Adv_Attack_Autoencoders/Trying_Other_Information_Rates.ipynb)__ 
